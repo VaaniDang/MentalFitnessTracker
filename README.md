@@ -6,7 +6,8 @@ Heatmap can be used to visualize and analyze mental fitness relation with other 
 The mental fitness trends across the countries over the past few years can also be evaluated
 ![image](https://github.com/VaaniDang/MentalFitnessTracker/assets/100473266/59eea753-5877-4ce9-a20f-3e6e0dea70bb)
 The value of mental fitness can be compared thoughout the years with the help of piechart
-![image](https://github.com/VaaniDang/MentalFitnessTracker/assets/100473266/352d6843-40b9-4cf3-a04f-728b61019b18)
+![image](https://github.com/VaaniDang/MentalFitnessTracker/assets/100473266/885dc3b6-4808-4f2e-936f-00cf2a1d5453)
+
 
 
 
